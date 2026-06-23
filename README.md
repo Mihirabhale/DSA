@@ -13,4 +13,8 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mihirabhale/DSA/tree/master/0015-3sum) |
+## Math
+|  |
+| ------- |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Mihirabhale/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 <!---LeetCode Topics End-->
