@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mihirabhale/DSA/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/Mihirabhale/DSA/tree/master/0268-missing-number) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mihirabhale/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Two Pointers
 |  |
@@ -15,10 +16,12 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mihirabhale/DSA/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/Mihirabhale/DSA/tree/master/0268-missing-number) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mihirabhale/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Mihirabhale/DSA/tree/master/0268-missing-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mihirabhale/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Greedy
 |  |
@@ -33,4 +36,16 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Mihirabhale/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Mihirabhale/DSA/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Mihirabhale/DSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Mihirabhale/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
