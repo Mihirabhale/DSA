@@ -12,6 +12,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Mihirabhale/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mihirabhale/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mihirabhale/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mihirabhale/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Mihirabhale/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mihirabhale/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Recursion
 |  |
 | ------- |
