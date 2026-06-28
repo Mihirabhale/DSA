@@ -54,4 +54,20 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Mihirabhale/DSA/tree/master/0268-missing-number) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Mihirabhale/DSA/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Mihirabhale/DSA/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Mihirabhale/DSA/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Mihirabhale/DSA/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
