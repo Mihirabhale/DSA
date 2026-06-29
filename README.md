@@ -38,6 +38,7 @@
 | [0061-rotate-list](https://github.com/Mihirabhale/DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mihirabhale/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Mihirabhale/DSA/tree/master/0086-partition-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Mihirabhale/DSA/tree/master/0138-copy-list-with-random-pointer) |
 ## Recursion
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Mihirabhale/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0268-missing-number](https://github.com/Mihirabhale/DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
