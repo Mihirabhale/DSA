@@ -25,6 +25,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Mihirabhale/DSA/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Mihirabhale/DSA/tree/master/0268-missing-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mihirabhale/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Greedy
