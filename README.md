@@ -6,6 +6,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Mihirabhale/DSA/tree/master/0015-3sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mihirabhale/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0228-summary-ranges](https://github.com/Mihirabhale/DSA/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Mihirabhale/DSA/tree/master/0268-missing-number) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mihirabhale/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Two Pointers
