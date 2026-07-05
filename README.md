@@ -56,10 +56,12 @@
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Mihirabhale/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Mihirabhale/DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Mihirabhale/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Mihirabhale/DSA/tree/master/0268-missing-number) |
 ## Tree
 |  |
@@ -67,6 +69,7 @@
 | [0101-symmetric-tree](https://github.com/Mihirabhale/DSA/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mihirabhale/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Mihirabhale/DSA/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Mihirabhale/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Mihirabhale/DSA/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -86,6 +89,7 @@
 | [0101-symmetric-tree](https://github.com/Mihirabhale/DSA/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mihirabhale/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Mihirabhale/DSA/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Mihirabhale/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Mihirabhale/DSA/tree/master/0226-invert-binary-tree) |
 ## Divide and Conquer
 |  |
