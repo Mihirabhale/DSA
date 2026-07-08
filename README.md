@@ -71,6 +71,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mihirabhale/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Mihirabhale/DSA/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Mihirabhale/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/Mihirabhale/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Mihirabhale/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Mihirabhale/DSA/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
@@ -79,6 +80,7 @@
 | [0101-symmetric-tree](https://github.com/Mihirabhale/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Mihirabhale/DSA/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Mihirabhale/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/Mihirabhale/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Mihirabhale/DSA/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -86,6 +88,7 @@
 | [0101-symmetric-tree](https://github.com/Mihirabhale/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mihirabhale/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Mihirabhale/DSA/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Mihirabhale/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Mihirabhale/DSA/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -95,6 +98,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mihirabhale/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Mihirabhale/DSA/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Mihirabhale/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/Mihirabhale/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Mihirabhale/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Mihirabhale/DSA/tree/master/0226-invert-binary-tree) |
 ## Divide and Conquer
