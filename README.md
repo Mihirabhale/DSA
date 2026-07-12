@@ -43,6 +43,7 @@
 | [0061-rotate-list](https://github.com/Mihirabhale/DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mihirabhale/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Mihirabhale/DSA/tree/master/0086-partition-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Mihirabhale/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Mihirabhale/DSA/tree/master/0138-copy-list-with-random-pointer) |
 ## Recursion
 |  |
@@ -75,6 +76,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mihirabhale/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mihirabhale/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Mihirabhale/DSA/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Mihirabhale/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Mihirabhale/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Mihirabhale/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Mihirabhale/DSA/tree/master/0222-count-complete-tree-nodes) |
@@ -85,6 +87,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/Mihirabhale/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Mihirabhale/DSA/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Mihirabhale/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Mihirabhale/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Mihirabhale/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Mihirabhale/DSA/tree/master/0226-invert-binary-tree) |
@@ -107,6 +110,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mihirabhale/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mihirabhale/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Mihirabhale/DSA/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Mihirabhale/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Mihirabhale/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Mihirabhale/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Mihirabhale/DSA/tree/master/0222-count-complete-tree-nodes) |
@@ -124,4 +128,8 @@
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mihirabhale/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Mihirabhale/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
