@@ -57,6 +57,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mihirabhale/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Mihirabhale/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0268-missing-number](https://github.com/Mihirabhale/DSA/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mihirabhale/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Mihirabhale/DSA/tree/master/0771-jewels-and-stones) |
 ## Binary Search
 |  |
@@ -130,6 +131,7 @@
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Mihirabhale/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Mihirabhale/DSA/tree/master/0771-jewels-and-stones) |
 ## Binary Search Tree
 |  |
@@ -147,9 +149,14 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Mihirabhale/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mihirabhale/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mihirabhale/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Mihirabhale/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
