@@ -15,6 +15,7 @@
 | [0283-move-zeroes](https://github.com/Mihirabhale/DSA/tree/master/0283-move-zeroes) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mihirabhale/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mihirabhale/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3842-toggle-light-bulbs](https://github.com/Mihirabhale/DSA/tree/master/3842-toggle-light-bulbs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0049-group-anagrams](https://github.com/Mihirabhale/DSA/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Mihirabhale/DSA/tree/master/0268-missing-number) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mihirabhale/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3842-toggle-light-bulbs](https://github.com/Mihirabhale/DSA/tree/master/3842-toggle-light-bulbs) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | [0268-missing-number](https://github.com/Mihirabhale/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mihirabhale/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Mihirabhale/DSA/tree/master/0771-jewels-and-stones) |
+| [3842-toggle-light-bulbs](https://github.com/Mihirabhale/DSA/tree/master/3842-toggle-light-bulbs) |
 ## Binary Search
 |  |
 | ------- |
@@ -165,4 +168,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Mihirabhale/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3842-toggle-light-bulbs](https://github.com/Mihirabhale/DSA/tree/master/3842-toggle-light-bulbs) |
 <!---LeetCode Topics End-->
