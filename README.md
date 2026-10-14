@@ -13,6 +13,7 @@
 | [0228-summary-ranges](https://github.com/Mihirabhale/DSA/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Mihirabhale/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mihirabhale/DSA/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Mihirabhale/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mihirabhale/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mihirabhale/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3842-toggle-light-bulbs](https://github.com/Mihirabhale/DSA/tree/master/3842-toggle-light-bulbs) |
@@ -172,4 +173,12 @@
 |  |
 | ------- |
 | [3842-toggle-light-bulbs](https://github.com/Mihirabhale/DSA/tree/master/3842-toggle-light-bulbs) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Mihirabhale/DSA/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Mihirabhale/DSA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
