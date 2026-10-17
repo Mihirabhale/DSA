@@ -43,6 +43,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Mihirabhale/DSA/tree/master/0316-remove-duplicate-letters) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mihirabhale/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Linked List
 |  |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mihirabhale/DSA/tree/master/0049-group-anagrams) |
+| [0316-remove-duplicate-letters](https://github.com/Mihirabhale/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mihirabhale/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Mihirabhale/DSA/tree/master/0771-jewels-and-stones) |
 ## Binary Search Tree
@@ -152,6 +154,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mihirabhale/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mihirabhale/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0316-remove-duplicate-letters](https://github.com/Mihirabhale/DSA/tree/master/0316-remove-duplicate-letters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -181,4 +184,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Mihirabhale/DSA/tree/master/0303-range-sum-query-immutable) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Mihirabhale/DSA/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
