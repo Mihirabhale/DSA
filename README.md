@@ -14,6 +14,7 @@
 | [0268-missing-number](https://github.com/Mihirabhale/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mihirabhale/DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Mihirabhale/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Mihirabhale/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mihirabhale/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mihirabhale/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3842-toggle-light-bulbs](https://github.com/Mihirabhale/DSA/tree/master/3842-toggle-light-bulbs) |
@@ -32,6 +33,7 @@
 | [0015-3sum](https://github.com/Mihirabhale/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Mihirabhale/DSA/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Mihirabhale/DSA/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Mihirabhale/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mihirabhale/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3842-toggle-light-bulbs](https://github.com/Mihirabhale/DSA/tree/master/3842-toggle-light-bulbs) |
 ## Math
@@ -67,6 +69,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Mihirabhale/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0268-missing-number](https://github.com/Mihirabhale/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mihirabhale/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Mihirabhale/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Mihirabhale/DSA/tree/master/0771-jewels-and-stones) |
 | [3842-toggle-light-bulbs](https://github.com/Mihirabhale/DSA/tree/master/3842-toggle-light-bulbs) |
 ## Binary Search
