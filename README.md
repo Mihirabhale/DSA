@@ -18,6 +18,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mihirabhale/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mihirabhale/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mihirabhale/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/Mihirabhale/DSA/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3842-toggle-light-bulbs](https://github.com/Mihirabhale/DSA/tree/master/3842-toggle-light-bulbs) |
 ## Two Pointers
 |  |
@@ -43,6 +44,7 @@
 | [0009-palindrome-number](https://github.com/Mihirabhale/DSA/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Mihirabhale/DSA/tree/master/0268-missing-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mihirabhale/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/Mihirabhale/DSA/tree/master/2575-find-the-divisibility-array-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -150,6 +152,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Mihirabhale/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mihirabhale/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Mihirabhale/DSA/tree/master/0771-jewels-and-stones) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/Mihirabhale/DSA/tree/master/2575-find-the-divisibility-array-of-a-string) |
 ## Binary Search Tree
 |  |
 | ------- |
