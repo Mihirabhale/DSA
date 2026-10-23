@@ -213,4 +213,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Mihirabhale/DSA/tree/master/0287-find-the-duplicate-number) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Mihirabhale/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
