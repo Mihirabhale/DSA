@@ -14,6 +14,7 @@
 | [0228-summary-ranges](https://github.com/Mihirabhale/DSA/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Mihirabhale/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mihirabhale/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Mihirabhale/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Mihirabhale/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mihirabhale/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mihirabhale/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -29,6 +30,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mihirabhale/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Mihirabhale/DSA/tree/master/0086-partition-list) |
 | [0283-move-zeroes](https://github.com/Mihirabhale/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Mihirabhale/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -84,11 +86,13 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mihirabhale/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Mihirabhale/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Mihirabhale/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Mihirabhale/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Mihirabhale/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Mihirabhale/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Mihirabhale/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
 | ------- |
@@ -196,4 +200,12 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Mihirabhale/DSA/tree/master/0316-remove-duplicate-letters) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Mihirabhale/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Mihirabhale/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
