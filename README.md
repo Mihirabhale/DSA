@@ -17,6 +17,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Mihirabhale/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Mihirabhale/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mihirabhale/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0724-find-pivot-index](https://github.com/Mihirabhale/DSA/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mihirabhale/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mihirabhale/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Mihirabhale/DSA/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Mihirabhale/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Mihirabhale/DSA/tree/master/0724-find-pivot-index) |
 ## Monotonic Stack
 |  |
 | ------- |
