@@ -48,6 +48,7 @@
 | [0009-palindrome-number](https://github.com/Mihirabhale/DSA/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Mihirabhale/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Mihirabhale/DSA/tree/master/0268-missing-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Mihirabhale/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mihirabhale/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Mihirabhale/DSA/tree/master/2575-find-the-divisibility-array-of-a-string) |
 ## Greedy
@@ -177,6 +178,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mihirabhale/DSA/tree/master/0070-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mihirabhale/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1137-n-th-tribonacci-number](https://github.com/Mihirabhale/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Queue
 |  |
 | ------- |
@@ -230,4 +232,5 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mihirabhale/DSA/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Mihirabhale/DSA/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
