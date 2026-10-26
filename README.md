@@ -12,6 +12,7 @@
 | [0049-group-anagrams](https://github.com/Mihirabhale/DSA/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mihirabhale/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mihirabhale/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0198-house-robber](https://github.com/Mihirabhale/DSA/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/Mihirabhale/DSA/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Mihirabhale/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mihirabhale/DSA/tree/master/0283-move-zeroes) |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mihirabhale/DSA/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Mihirabhale/DSA/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mihirabhale/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mihirabhale/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/Mihirabhale/DSA/tree/master/1137-n-th-tribonacci-number) |
