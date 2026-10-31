@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Mihirabhale/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mihirabhale/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/Mihirabhale/DSA/tree/master/0049-group-anagrams) |
+| [0063-unique-paths-ii](https://github.com/Mihirabhale/DSA/tree/master/0063-unique-paths-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mihirabhale/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mihirabhale/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Mihirabhale/DSA/tree/master/0198-house-robber) |
@@ -180,6 +181,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Mihirabhale/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Mihirabhale/DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Mihirabhale/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Mihirabhale/DSA/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mihirabhale/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -247,4 +249,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Mihirabhale/DSA/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/Mihirabhale/DSA/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
