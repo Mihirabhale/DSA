@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Mihirabhale/DSA/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Mihirabhale/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mihirabhale/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Mihirabhale/DSA/tree/master/0268-missing-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Mihirabhale/DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -178,6 +179,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Mihirabhale/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mihirabhale/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Mihirabhale/DSA/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mihirabhale/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -241,4 +243,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mihirabhale/DSA/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Mihirabhale/DSA/tree/master/1137-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Mihirabhale/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
