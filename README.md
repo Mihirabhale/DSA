@@ -166,6 +166,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Mihirabhale/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mihirabhale/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Mihirabhale/DSA/tree/master/0771-jewels-and-stones) |
+| [1143-longest-common-subsequence](https://github.com/Mihirabhale/DSA/tree/master/1143-longest-common-subsequence) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Mihirabhale/DSA/tree/master/2575-find-the-divisibility-array-of-a-string) |
 ## Binary Search Tree
 |  |
@@ -187,6 +188,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Mihirabhale/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mihirabhale/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/Mihirabhale/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Mihirabhale/DSA/tree/master/1143-longest-common-subsequence) |
 ## Queue
 |  |
 | ------- |
@@ -254,4 +256,8 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Mihirabhale/DSA/tree/master/0063-unique-paths-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Mihirabhale/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
